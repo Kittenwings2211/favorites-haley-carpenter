@@ -1,0 +1,39 @@
+body{
+    background-color: #1ED98B;
+    color: #8b2152;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 5px;
+}
+
+.lists{
+    margin: 5px;
+}
+
+#Near-and-dear{
+    text-align: left;
+    margin: 20px;
+}
+
+#Fav-songs{
+    margin: 20px;
+}
+
+#Fav-images{
+    margin: 20px;
+}
+
+#Rin-picture{
+    width: 350px;
+    margin: 10px;
+    padding-left: 50px;
+}
+
+#Adorable-black-kitten{
+    width: 350px;
+    margin: 10px;
+    padding-left: 50px;
+}
